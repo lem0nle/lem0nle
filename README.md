@@ -7,7 +7,7 @@
 - 🦆 My name looks like French and sounds like French, but it's actually Chinese.
 
 #### What's new
-- 🇩🇪 I've been learning **Germany** since Sep. 2020.
+- 🇩🇪 I've been learning **German** since 2020.
 - 🤔 I currently find my interest in **Rust**.
 - 📖 My recent reading list includes Harry Potter🧙‍♀️ and Sherlock Holmes🕵️ stories.
 <!-- 
