@@ -1,16 +1,21 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**lem0nle/lem0nle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Facts about me
+- 👩‍🎓 I'm a Ph.D candidate from [USTC](http://ustc.edu.cn), majoring in Computer Science and Data Science.
+- 👩‍💻 I strive to be a full stack programmer, a data scientist and an amateur game developer.
+- 🥸 My life motto is, _"stay cool and have fun"_.
+- 🦆 My name looks like French and sounds like French, but it's actually Chinese.
 
-Here are some ideas to get you started:
+### What's new
+- 🇩🇪 I've been learning **Germany** since Sep. 2020.
+- 🤔 I currently find my interest in **Rust**.
+- 📖 My recent reading list includes Harry Potter🧙‍♀️ and Sherlock Holmes🕵️ stories.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Side projects in progress
+- 💰 Wishlist tracking
+- 🎸 Fretboard display
+- 🎮 Puzzle and adventure game
+
+### Publication
+#### 2020
+- **Le Dai**, Yu Yin, Chuan Qin, Tong Xu, Xiangnan He, Enhong Chen, and Hui Xiong. [Enterprise Cooperation and Competition Analysis with a Sign-Oriented Preference Network](https://dl.acm.org/doi/abs/10.1145/3394486.3403120). KDD'20, San Diego, California, USA. (Research Track)
